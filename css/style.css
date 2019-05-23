@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: myFirstFont;
-  src: "/..fonts/Baskerville.tcc";
+  src: "..fonts/Baskerville.tcc";
 }
 
 div {
