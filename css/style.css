@@ -1,9 +1,10 @@
 /*////////////// Fonts //////////////*/
 
 @font-face {
-  font-family: myFirstFont;
-  src: "..fonts/Baskerville.tcc";
+	font-family: 'Baskerville';
+	src: url(../fonts/Baskerville.ttc);
 }
+
 
 div {
   font-family: myFirstFont;
